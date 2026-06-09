@@ -1,4 +1,4 @@
-# 
+# Open Source Blender plugins for Mac OS | Premium Blender plugins for PC Windows. Featuring color-palette and content-aware-fill — optimized for maximum performance on every platform.
 
 
 
